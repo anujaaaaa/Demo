@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-api_key = "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"
+api_key = "key"
 openai.api_key = api_key
 
 st.title("GPT-3.5-turbo Chatbot")
